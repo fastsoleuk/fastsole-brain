@@ -12,7 +12,7 @@
   },
   "scripts": {
     "dev": "frontity dev",
-    "build": "frontity build --public-path https://fastsole-brain.vercel.app/static",
+    "build": "frontity build --public-path http://fastsole-brain.vercel.app/static",
     "serve": "frontity serve"
   },
   "prettier": {},
